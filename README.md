@@ -8,10 +8,6 @@
 **Markup Languages**
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/> </a></p>
 
-#### Languages:
-- **Programming Languages:** Luau, Lua, C++ (Intermediate), C#, JavaScript / Node.js, Python
-- **Markup Languages:** HTML, XML
-
 #### Bio:
 I am a skilled and experienced individual with a deep understanding of the Luau programming language, particularly within the Roblox platform. My expertise extends to identifying vulnerabilities, participating actively in bug bounty programs on platforms like HackerOne.
 
