@@ -20,7 +20,7 @@ Passionate about cybersecurity, game development, and ensuring a secure and enjo
 
 ---
 
-#### Statistics:
-- **HackerOne Impact:** Found and reported vulnerabilities leading to $X,XXX in bounties.
-- **GitHub Contributions:** X repositories contributed to, with X stars and X forks.
-- **Roblox Projects:** X security improvements implemented, impacting X users.
+#### GitHub Statistics:
+[![GitHub Repositories](https://img.shields.io/badge/Repos-X-brightgreen)](https://github.com/alonefact)
+[![GitHub Stars](https://img.shields.io/badge/Stars-X-yellow)](https://github.com/alonefact)
+[![GitHub Forks](https://img.shields.io/badge/Forks-X-blue)](https://github.com/alonefact)
