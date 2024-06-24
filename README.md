@@ -1,4 +1,6 @@
-### Hello! 🐱
+![Banner](https://example.com/banner.png)
+
+### Cybersecurity Enthusiast / Programmer 🐱
 
 #### About Me:
 - **Programming Languages:** Luau, Lua, C++ (Intermediate), C#, JavaScript / Node.js, Python
@@ -15,3 +17,10 @@ I have successfully discovered and responsibly disclosed multiple vulnerabilitie
 
 #### Interests:
 Passionate about cybersecurity, game development, and ensuring a secure and enjoyable experience for Roblox users worldwide.
+
+---
+
+#### Statistics:
+- **HackerOne Impact:** Found and reported vulnerabilities leading to $X,XXX in bounties.
+- **GitHub Contributions:** X repositories contributed to, with X stars and X forks.
+- **Roblox Projects:** X security improvements implemented, impacting X users.
