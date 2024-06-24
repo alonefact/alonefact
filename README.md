@@ -1,6 +1,6 @@
 ### Cybersecurity Enthusiast / Programmer 🐱
 
-![Banner](https://github.com/alonefact/Bio/Banner.png)
+![Banner](https://github.com/alonefact/Bio/blob/main/Banner.png)
 
 #### About Me:
 - **Programming Languages:** Luau, Lua, C++ (Intermediate), C#, JavaScript / Node.js, Python
