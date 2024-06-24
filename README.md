@@ -1,6 +1,6 @@
-![Banner](https://example.com/banner.png)
-
 ### Cybersecurity Enthusiast / Programmer 🐱
+
+![Banner](https://example.com/banner.png)
 
 #### About Me:
 - **Programming Languages:** Luau, Lua, C++ (Intermediate), C#, JavaScript / Node.js, Python
@@ -16,11 +16,4 @@ I have successfully discovered and responsibly disclosed multiple vulnerabilitie
 - **Creator of game.workspace.RejectCharacterDeletions:** This project, developed through HackerOne, addresses critical vulnerabilities within the Roblox platform, ensuring a safer environment for all users. Recognized with a bounty for my contributions.
 
 #### Interests:
-Passionate about cybersecurity, game development, and ensuring a secure and enjoyable experience for Roblox users worldwide.
-
----
-
-#### GitHub Statistics:
-[![GitHub Repositories](https://img.shields.io/badge/Repos-X-brightgreen)](https://github.com/alonefact)
-[![GitHub Stars](https://img.shields.io/badge/Stars-X-yellow)](https://github.com/alonefact)
-[![GitHub Forks](https://img.shields.io/badge/Forks-X-blue)](https://github.com/alonefact)
+Passionate about cybersecurity, game development, and ensuring a secure and enjoyable experience.
