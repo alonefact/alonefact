@@ -3,7 +3,7 @@
 ![Banner](https://github.com/alonefact/Bio/blob/main/Banner%20h1.png)
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkeyy-hash&theme=dark" alt="kkeyy-hash" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonefact&theme=dark" alt="alonefact" />
 </p>
 
 **Programming Languages**
