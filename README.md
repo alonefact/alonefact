@@ -15,6 +15,8 @@
 #### Bio:
 I am a skilled and experienced individual with a deep understanding of the Luau programming language, particularly within the Roblox platform. My expertise extends to identifying vulnerabilities, participating actively in bug bounty programs on platforms like HackerOne.
 
+If I upload anything on this GitHub that might seem malicious, I do not intend for it to be harmful. This is for my research purposes. If you deem anything to be dangerous to your company or believe my research may cause harm, please reach out.
+
 #### Experience:
 I have successfully discovered and responsibly disclosed multiple vulnerabilities in various companies, showcasing my ability to analyze complex systems and bolster cybersecurity measures. These efforts have significantly contributed to enhancing organizational security and mitigating potential risks.
 
