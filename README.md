@@ -21,6 +21,7 @@ If I upload anything on this GitHub that might seem malicious, I do not intend f
 I have successfully discovered and responsibly disclosed multiple vulnerabilities in various companies, showcasing my ability to analyze complex systems and bolster cybersecurity measures. These efforts have significantly contributed to enhancing organizational security and mitigating potential risks.
 
 #### Achievements:
+- **Founder and Current Owner of HookModule**
 - **Founder of game.workspace.RejectCharacterDeletions:** This project, developed through HackerOne, addresses critical vulnerabilities within the Roblox platform, ensuring a safer environment for all users. Recognized with a bounty for my contributions.
 
 #### Interests:
