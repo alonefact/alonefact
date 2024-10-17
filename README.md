@@ -22,7 +22,7 @@ I have successfully discovered and responsibly disclosed multiple vulnerabilitie
 
 #### Achievements:
 - **Founder and Current Owner of HookModule**
-- **Founder of game.workspace.RejectCharacterDeletions:** This project, developed through HackerOne, addresses critical vulnerabilities within the Roblox platform, ensuring a safer environment for all users. Recognized with a bounty for my contributions.
+- **Founder of game.workspace.PlayerCharacterDestroyBehavior:** This project, developed through HackerOne, addresses critical vulnerabilities within the Roblox platform, ensuring a safer environment for all users. Recognized with a bounty for my contributions.
 
 #### Interests:
 Passionate about cybersecurity, game development, and ensuring a secure and enjoyable experience.
