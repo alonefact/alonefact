@@ -12,6 +12,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonefact&theme=dark" alt="alonefact" />
 </p>
 
+# Good Faith Security Research:
+- @Roblox
+- @Discord
+
+**(only non-private companies will be listed)**
+
 #### Bio:
 I am a skilled and experienced individual with a deep understanding of the Luau programming language, particularly within the Roblox platform. My expertise extends to identifying vulnerabilities, participating actively in bug bounty programs on platforms like HackerOne.
 
