@@ -9,7 +9,7 @@
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/> </a></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonefact&theme=dark" alt="alonefact" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alonefact&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 # Good Faith Security Research:
